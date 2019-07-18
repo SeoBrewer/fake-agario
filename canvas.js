@@ -15,7 +15,7 @@ window.addEventListener('mousemove', function() {
     mouse.x = event.x;
     mouse.y = event.y;
 });
-
+console.log('test')
 /* Game Controllers:
 window.addEventListener("keydown", controller.keyListener);
 window.addEventListener("keyup", controller.keyListener);
